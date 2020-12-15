@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: switchsyj.github.io/sitemap.xml
